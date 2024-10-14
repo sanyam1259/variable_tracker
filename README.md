@@ -33,7 +33,7 @@ The extension scans the executed cells in a Jupyter Notebook and:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/sanyam1259/variable_tracker.git
    ```
 
 2. Navigate to the cloned folder:
